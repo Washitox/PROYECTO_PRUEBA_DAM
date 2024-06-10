@@ -4,7 +4,7 @@
 
 # 1. Aplicativo de hoja de vida (CV) + firebase hosting+infinite scrolling.
 
-Link del repositorio: 
+Link del repositorio: https://github.com/Washitox/Hoja-de-vida-aplicativo.git
 
 # 2. Aplicación para tomar fotos.
 
