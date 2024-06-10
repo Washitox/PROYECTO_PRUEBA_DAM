@@ -8,7 +8,7 @@ Link del repositorio: https://github.com/Washitox/Hoja-de-vida-aplicativo.git
 
 # 2. Aplicación para tomar fotos.
 
-Link del repositorio: 
+Link del repositorio: https://github.com/Washitox/Aplicativo-de-fotos.git
 
 # 3. Login con firebase authentication.
 
